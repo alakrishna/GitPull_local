@@ -1,0 +1,2 @@
+"This is local repository"
+Trying to push from local to Git
